@@ -1,0 +1,75 @@
+/*Imports*/
+@import url(./headerStyles.css);
+@import url(./featuresStyles.css);
+@import url(./greenRate.css);
+@import url(./clientsStyles.css);
+@import url(./stepsStyles.css);
+/*General styles*/
+
+*,
+*::before,
+*::after {
+	padding: 0;
+	margin: 0;
+	border: 0;
+	box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	margin: 0;
+	font-weight: inherit;
+	font-size: inherit;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+.wrapper {
+	overflow: hidden;
+	display: flex;
+	flex-direction: column;
+	min-height: 100%;
+}
+
+ul, ol, li {
+	list-style: none;
+}
+
+[class*="__container"] {
+	max-width: 1921px;
+	margin: 0 auto;
+	font-family: 'Noto Sans';
+}
+
+body, html {
+	scroll-behavior: smooth;
+}
+
+/*Other styles*/
+
+span {
+	text-decoration: underline;
+}
+
+.info-img{
+	height: 500px;
+	background-image: url(../img/info-img-background.jpg);
+	background-size:cover;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+
+.info-img-title{
+	font-size: 42px;
+	font-weight: 400;
+	line-height: 57px;
+	color: white;
+
+	height: 228px;
+	width: 673px;
+
+}

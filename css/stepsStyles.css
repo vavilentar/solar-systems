@@ -1,0 +1,36 @@
+.steps {
+
+}
+.steps__container {
+	display: flex;
+	padding: 100px 0 0 0;
+	justify-content: space-evenly;
+}
+.title {
+}
+.steps-title {
+}
+.steps-info {
+	display: flex;
+	flex-direction: column;
+	padding: 100px 0;
+}
+.step {
+	width: 510px;
+	height: 95px;
+}
+.step-num {
+font-size: 14px;
+font-weight: 400;
+line-height: 19px;
+color: #868585;
+}
+.name {
+}
+.step-name {
+	padding: 11px 0 2px 0;
+}
+.descr {
+}
+.step-descr {
+}

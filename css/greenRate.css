@@ -1,0 +1,64 @@
+.green-rate {
+	display: flex;
+	justify-content: space-between;
+}
+.green-rate__container {
+	width: 1200px;
+	padding: 86px 0 100px 0;
+}
+.green-rate-wrapper {
+}
+.title {
+}
+.green-rate-title {
+}
+.green-rate-tabs {
+	padding: 60px 0 0 0;
+	display: flex;
+	justify-content: space-between;
+}
+.tab {
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 25px;
+}
+.green-rate-slides {
+	padding: 120px 0 100px 0;
+	display: flex;
+	width: 510px;
+	justify-content: space-between;
+}
+.green-rate-slides-img {
+}
+.green-rate-slides-descr {
+}
+.descr {
+}
+.green-rate-info-block {
+	display: flex;
+	justify-content: space-between;
+	flex-direction: column;
+}
+.info-wrapper {
+	display: flex;
+	margin: 15px 0;
+	justify-content: space-between;
+}
+.info {
+	width: 235px;
+	height: 109px;
+}
+.name {
+}
+.info-name {
+}
+.info-descr {
+}
+
+.green-rate-img{
+	
+	padding: 50px 0;
+	display: flex;
+	flex-direction: column;
+	width: 50%;
+}

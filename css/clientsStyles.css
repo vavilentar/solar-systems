@@ -1,0 +1,45 @@
+.clients {
+}
+.clients__container {
+	padding: 100px 0 0 0;
+}
+.title {
+}
+.clients-title {
+	text-align: left;
+	padding: 0 0 50px 0;
+}
+.clients-wrapper {
+	display: flex;
+	justify-content: space-evenly;
+}
+.clients-img {
+}
+.clients-name {
+}
+.info-clients {
+padding: 30px 0 0 0;
+}
+.info-clients li{
+	padding: 7.5px;
+}
+.info {
+}
+.consult-btn {
+}
+.consult-link {
+}
+.consult-icon {
+}
+.client-btn{
+	padding: 90px 0 0 50px;
+
+}
+.client-link{
+	color: black;
+}
+
+.client-icon{
+	left: 0;
+	top: 25%;
+}
